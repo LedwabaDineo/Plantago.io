@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://C://Personal/Plantago/Plantago.iml" filepath="C://Personal/Plantago/Plantago.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Plantago.iml" filepath="$PROJECT_DIR$/Plantago.iml" />
     </modules>
   </component>
 </project>
